@@ -1,0 +1,5 @@
+{
+  "bucket": "customer-orders-test",
+  "region": "ap-south-1",
+  "prefix": "orders/"
+}
